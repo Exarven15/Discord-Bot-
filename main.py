@@ -134,11 +134,9 @@ def main():
         if verify_search_ma_bar == 1 or verify_search_bar == 1:
             print("stoping ....!")
             exit(main())
-
     else:
         return "Not working"
 
-    # main() end here
 
 
 if __name__ == '__main__':
